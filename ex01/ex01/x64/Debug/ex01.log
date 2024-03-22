@@ -1,0 +1,6 @@
+﻿  ex01.c
+  funtion.c
+  코드를 생성하고 있습니다...
+D:\c study\c\ex01\ex01\ex01.c(9,5): warning C4013: 'prt'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\c study\c\ex01\ex01\ex01.c(14,5): warning C4013: 'add'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ex01.vcxproj -> D:\c study\c\ex01\x64\Debug\ex01.exe
